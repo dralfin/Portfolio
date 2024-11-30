@@ -1,7 +1,7 @@
 {
   "rewrites":  [
-    {"source": "/about", "destination": "/https://tiago-morato.vercel.app/about"},
-{"source": "/home", "destination": "https://tiago-morato.vercel.app/home"},
-{"source": "/projects", "destination": "https://tiago-morato.vercel.app/projects"}
+    {"source": "https://tiago-morato.vercel.app/about", "destination": "/about"},
+{"source": "https://tiago-morato.vercel.app/", "destination": "/home"},
+{"source": "https://tiago-morato.vercel.app/projects", "destination": "/projects"}
   ]
 }
