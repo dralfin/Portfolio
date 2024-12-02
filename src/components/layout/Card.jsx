@@ -8,7 +8,7 @@ export default props => {
         <div className="Card">
             <img src={props.img} width="100%" />
 
-            <div className="Title">{props.titulo}</div>
+            <div className="Title">{props.nomeProjeto}</div>
             <div> 
                 <a href={props.link1} target="_blank"> <FaGithub /><div></div></a>
                 <a href={props.link2} target="_blank"> <IoEyeSharp /><div></div></a>
