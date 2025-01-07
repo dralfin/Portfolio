@@ -69,7 +69,7 @@ export default props => {
                     </div>
                 </div>
 
-                <div className="img"><img src="https://scontent.fsjp4-1.fna.fbcdn.net/v/t39.30808-6/468405417_8800124943405586_7438387871467625937_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=nRbHDM948mkQ7kNvgGvBPMH&_nc_zt=23&_nc_ht=scontent.fsjp4-1.fna&_nc_gid=ApGKAq2GE4q6Iw8H0e395Kh&oh=00_AYAFf5PvQGf1zpzD2XE5nyWI2iqHWpi3hr5gKO40dm3q6A&oe=674FE392" alt="" /></div>
+                <div className="img"><img src="../img/Tiago.jpg" alt="" /></div>
             </div>
         </div>
         </div>
