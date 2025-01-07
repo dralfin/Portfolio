@@ -4,6 +4,7 @@ import { FaHtml5, FaCss3Alt, FaReact, FaPhp,FaBootstrap, FaGithub, FaDiceD20    
 import { IoLogoJavascript } from "react-icons/io5";
 import { SiCsharp } from "react-icons/si";
 import { DiMaterializecss } from "react-icons/di";
+import tiago from "../img/Tiago.jpg"
 
 
 
@@ -69,7 +70,7 @@ export default props => {
                     </div>
                 </div>
 
-                <div className="img"><img src="../img/Tiago.jpg" alt="" /></div>
+                <div className="img"><img src={tiago} alt="" /></div>
             </div>
         </div>
         </div>
